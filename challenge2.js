@@ -1,3 +1,4 @@
+
 const colours = ['R', 'G', 'B'];
 
 const triangle = (string)=>{
@@ -35,4 +36,4 @@ const output = (a,b)=>{
   }
 }
 
-triangle('GB');
+triangle('RBRGBRBGGRRRBGBBBGG');
